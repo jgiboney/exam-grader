@@ -1,0 +1,16 @@
+correct_answer_row: 3
+first_question_column: 7
+first_score_row: 7
+number_of_questions: 84
+section_numbers: [1,2,3,4,5]
+section_lengths: [79, 118, 289, 97, 76]
+section_starts: [1, 80, 198, 487, 584]
+section_number_of_questions: [12, 18, 26, 15, 13]
+section_names: ['Planning and Scoping', 'Information Gathering and Vulnerability Scanning', 'Attacks and Exploits', 'Reporting and Communication', 'Tools and Code Analysis']
+sub_section_numbers: [1.1, 1.2, 1.3, 2.1, 2.2, 2.3, 2.4, 3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 4.1, 4.2, 4.3, 4.4, 5.1, 5.2, 5.3]
+sub_section_lengths: [22, 46, 11, 23, 27, 25, 43, 55, 26, 59, 19, 25, 42, 63, 17, 46, 21, 13, 9, 29, 38]
+sub_section_starts: [1, 23, 69, 80, 103, 130, 155, 198, 253, 279, 338, 357, 382, 424, 487, 504, 550, 571, 584, 593, 622]
+sub_section_number_of_questions: [3, 6, 4, 4, 4, 4, 6, 6, 3, 4, 2, 2, 3, 6, 2, 7, 4, 2, 3, 3, 7]
+sub_section_names: ['Compare and contrast governance, risk, and compliance concepts.', 'Explain the importance of scoping and organizational/customer requirements.', 'Given a scenario, demonstrate an ethical hacking mindset by maintaining professionalism and integrity.', 'Given a scenario, perform passive reconnaissance.', 'Given a scenario, perform active reconnaissance.', 'Given a scenario, analyze the results of a reconnaissance exercise.', 'Given a scenario, perform vulnerability scanning.', 'Given a scenario, research attack vectors and perform network attacks.', 'Given a scenario, research attack vectors and perform wireless attacks.', 'Given a scenario, research attack vectors and perform application-based attacks.', 'Given a scenario, research attack vectors and perform attacks on cloud technologies.', 'Explain common attacks and vulnerabilities against specialized systems.', 'Given a scenario, perform a social engineering or physical attack.', 'Given a scenario, perform post-exploitation techniques.', 'Compare and contrast important components of written reports.', 'Given a scenario, analyze the findings and recommend the appropriate remediation within a report.', 'Explain the importance of communication during the penetration testing process.', 'Explain post-report delivery activities.', 'Explain the basic concepts of scripting and software development.', 'Given a scenario, analyze a script or code sample for use in a penetration test.', 'Given a scenario, analyze a script or code sample for use in a penetration test.']
+student_attempt_column: 6
+student_name_column: 1

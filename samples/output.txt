@@ -1,0 +1,25 @@
+Q1
+Difficulty: 100.0 (easy)
+
+Q2
+Difficulty: 0.0 (strongly_difficult)
+Concept Understanding: 0 (no_understanding)
+
+Q3
+Difficulty: 14.285714285714285 (strongly_difficult)
+
+Q6
+Difficulty: 21.428571428571427 (strongly_difficult)
+
+Q7
+Difficulty: 7.142857142857142 (strongly_difficult)
+Concept Understanding: 1 (some_understanding)
+
+Q9
+Difficulty: 14.285714285714285 (strongly_difficult)
+Concept Understanding: 2 (some_understanding)
+
+Q10
+Difficulty: 28.57142857142857 (strongly_difficult)
+
+Top Bad Questions:

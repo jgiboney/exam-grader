@@ -1,0 +1,32 @@
+# This file contains the configuration for the analyzer. You can change the 
+#values here to suit your needs.
+
+# The row with the correct answers goes here. Learning Suite by default is row 
+# 2.
+correct_answer_row: 2
+
+# The column with the first question goes here. Learning Suite by default is 
+# row 6.
+first_question_column: 6
+
+# The row with the first score goes here. Learning Suite by default is row 6.
+first_score_row: 6
+
+# The column with the student's score (not percentage) goes here. Learning 
+#Suite by default is row 3.
+score_column: 3
+
+# The number of responses that are required for a question to be analyzed. Most
+# exams have every student answer every question. This only matters when 
+# analyzing question banks where not every question is answerd by every student.
+response_minimum: 10
+
+# If for some reason you have questions that have the wrong answer in the answer 
+# key, you can manually override them here.
+# The format is Q# (question number): 'A' (correct answer)
+manual_overides:
+  #Q39: 'D'
+  #Q86: 'B'
+  #Q141: 'D'
+  #Q389: 'A'
+  #Q390: 'B'

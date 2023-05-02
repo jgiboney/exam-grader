@@ -1,0 +1,30 @@
+# This file contains the constants used in the application. You probably won't
+# need to change anything here.
+
+# The following are default values for the measures.
+discrimination1_levels:
+  strong_reverse_discrimination: -101.0
+  moderate_reverse_discrimination: -3.0
+  weak_reverse_discrimination: -1.0
+  neutral: -0.3
+  weak_discrimination: 0.3
+  moderate_discrimination: 1.0
+  strong_discrimination: 3.0
+discrimination2_levels:
+  strong_reverse_discrimination: -101.0
+  moderate_reverse_discrimination: -36.0
+  weak_reverse_discrimination: -25.0
+  neutral: -20.0
+  weak_discrimination: 20.0
+  moderate_discrimination: 25.0
+  strong_discrimination: 36.0
+difficulty_levels:
+  strongly_difficult: 0.0
+  moderately_difficult: 30.0
+  minorly_difficult: 60.0
+  easy: 70.0
+concept_understanding_levels:
+  no_understanding: 0
+  some_understanding: 1
+  good_understanding: 3
+  strong_understanding: 5

@@ -1,0 +1,26 @@
+﻿Name, Net ID, Homework ID, Score, Percent, Attempt,Q1,Q2,Q3,Q4,Q5,Q6,Q7,Q8,Q9,Q10,Q11
+Prompt, ***, ***, , , ,What is your favorite color?,Hey dad. You wanna have a catch?,Aren't you a little short for a stormtrooper?,Shall we play a game?,Do I feel lucky?,You want the truth?,Who you gonna call?,Who's on first?,"What would you say if man walked in here with no shirt, and I hired him? What would you say?","Do you ever have déjà vu, Mrs. Lancaster?","text"
+Key, ***, ***, , , ,A,B,C,D,E,A,B,C,D,E,
+Type, ***, ***, , , ,Multiple Choice,Multiple Choice,Multiple Choice,Multiple Choice,Multiple Choice,Multiple Choice,Multiple Choice,Multiple Choice,Multiple Choice,Multiple Choice,Text
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Student A,aaa,aaa,6,60,1,A,C,C,D,E,C,E,C,A,E,"text"
+Student B,bbb,bbb,5,50,1,A,C,C,E,E,C,E,C,B,E,"text"
+Student C,ccc,ccc,5,50,1,A,C,C,D,D,A,E,A,C,E,"text"
+Student D,ddd,ddd,4,40,1,A,C,C,A,D,A,E,D,D,B,"text"
+Student E,eee,eee,3,30,1,A,C,D,B,D,A,E,E,E,E,"text"
+Student F,fff,fff,6,60,1,A,C,D,D,E,A,E,C,A,E,"text"
+Student G,ggg,ggg,3,30,1,A,C,D,E,E,C,E,C,B,B,"text"
+Student H,hhh,hhh,3,30,1,A,C,D,E,E,C,E,C,C,B,"text"
+Student I,iii,iii,4,40,1,A,C,E,A,E,C,B,D,D,D,"text"
+Student J,jjj,jjj,3,30,1,A,C,E,D,E,C,E,B,E,C,"text"
+Student K,kkk,kkk,3,30,1,A,C,E,D,D,E,E,C,A,A,"text"
+Student L,lll,lll,3,30,1,A,C,A,D,A,E,E,C,B,A,"text"
+Student M,mmm,mmm,1,10,1,A,C,A,E,B,E,E,B,C,B,"text"
+Student N,nnn,nnn,1,10,1,A,C,A,B,D,E,E,B,D,C,"text"
+Student O,ooo,ooo,9,90,1,A,C,C,D,E,A,B,C,D,E,"text"
+Student P,ppp,ppp,2,20,1,A,C,A,C,C,B,E,C,A,C,"text"
+Student Q,qqq,qqq,2,20,1,A,C,A,E,E,B,E,A,B,C,"text"
+Student R,rrr,rrr,3,30,1,A,C,B,D,E,B,E,A,C,B,"text"
+Student S,sss,sss,5,50,1,A,C,B,D,E,C,E,C,D,B,"text"
+Student T,ttt,ttt,5,50,1,A,C,B,D,E,C,E,C,E,E,"text"

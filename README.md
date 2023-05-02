@@ -1,7 +1,7 @@
 # Analyzer
 This project analyzes multiple-choice exam questions.
 
-Usage: python analyzer/analyzer.py analyzer_config.yml scores.csv output.txt
+Usage: python analyzer/question_analyzer.py analyzer_config.yml scores.csv output.txt
 
 # Getting scores from Learning Suite
 Open your course on Learning Suite. 

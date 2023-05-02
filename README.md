@@ -3,6 +3,21 @@ This project analyzes multiple-choice exam questions.
 
 Usage: python analyzer/analyzer.py analyzer_config.yml scores.csv output.txt
 
+# Getting scores from Learning Suite
+Open your course on Learning Suite. 
+
+Click on Assignments in the left panel 
+
+![Opening the assignments panel](images/LS-Assignments-Tab.png)
+
+Open the exam details 
+
+![Opening the exam details panel](images/LS-Exam-Scores-Btn.png)
+
+Download the exam scores 
+
+![Exporting the exam scores](images/LS-Export-Student-Answers.png)
+
 
 # Measures
 
